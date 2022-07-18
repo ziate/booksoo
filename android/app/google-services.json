@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192588985559",
+    "project_id": "beebook-aec25",
+    "storage_bucket": "beebook-aec25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192588985559:android:746fcad094d83ea538ac92",
+        "android_client_info": {
+          "package_name": "com.iqonic.elmaghara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192588985559-3aou13j29ppv377pvb9lksi4vhtv9b8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6q9b9XwJZXJ_ZPVHeKT9ASLTv12PDH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192588985559-3aou13j29ppv377pvb9lksi4vhtv9b8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
